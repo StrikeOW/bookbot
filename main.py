@@ -25,14 +25,8 @@ def unique_character(file_contents):
     return char_list
 
 
-
 def word_count(file_contents):
     words = file_contents.split()
     return len(words)
 
 main()
-
-
-
-
-
